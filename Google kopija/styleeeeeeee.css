@@ -1,0 +1,435 @@
+
+        .logo {
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 15px;
+            width: 90px;
+            height: 30px;
+            cursor: pointer;
+        }
+
+        .searchbar {
+            position: absolute;
+            outline: 0;
+            margin-left: 150px;
+            margin-top: 18px;
+            border-radius: 25px;
+            border: 1px solid #d3d3d3;
+            padding: 12px;
+            width: 700px;
+        }
+
+        .searchbar-lupa {
+            position: absolute;
+            margin-top: 27px;
+            margin-left: 840px;
+        }
+
+        .searchbar-hover:hover {
+            box-shadow: 0 0 6px #d3d3d3;
+        }
+
+        .izvelne {
+            position: absolute;
+            cursor: pointer;
+            border: none;
+            margin-left: 91.5%;
+            margin-top: 8px;
+            width: 27px;
+            height: 24px;
+        }
+
+        .aplis:hover {
+            border-radius: 50%;
+            background-color: #dadce0;
+        }
+
+        .signin-poga {
+            position: absolute;
+            border: none;
+            margin-left: 93.5%;
+            margin-top: 0px;
+            width: 96px;
+            height: 36px;
+            background-color: #1a73e8;
+            color: #fff;
+            text-align: center;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .div {
+            position: absolute;
+            width: 454px;
+            height: 1158px;
+            border: 1px #dadce0 solid;
+            margin-top: 164px;
+            margin-left: 885px;
+            border-radius: 10px;
+        }
+
+        .rvt-bilde {
+            position: absolute;
+            cursor: pointer;
+            border-top-left-radius: 10px;
+            width: 213px;
+            height: 160px;
+        }
+
+        .google-maps {
+            cursor: pointer;
+            margin-left: 214px;
+            border-top-right-radius: 10px;
+        }
+
+        .maps-podzinja {
+            position: absolute;
+            cursor: pointer;
+            width: 44px;
+            height: 120px;
+            box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+            height: 110px;
+            width: 110px;
+            border-radius: 2px;
+            background-color: rgba(255, 255, 255, 0.287);
+            margin-left: 415px;
+            margin-top: -160px;
+        }
+
+        .fotoattēli {
+            position: absolute;
+            background: rgba(0, 0, 0, .6);
+            color: #fff;
+            font-size: 14px;
+            width: 125px;
+            height: 32px;
+            margin-top: 128px;
+            margin-left: -366px;
+            outline: none;
+            border: none;
+            cursor: pointer;
+        }
+
+        .viss {
+            position: absolute;
+            margin-top: 75px;
+            margin-left: 175px;
+            border: none;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .attēli {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 245px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .pogas-spiedien:focus {
+            border-bottom: 3px solid #1a73e8;
+            color: #1a73e8;
+        }
+
+        .maps {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 315px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .video {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 385px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .ziņas {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 455px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .vēl {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 525px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .search_glass {
+            width: 13px;
+            height: 13px;
+            margin-right: 5px;
+        }
+
+        .maps-logo {
+            width: 11px;
+            height: 15px;
+            margin-right: 5px;
+        }
+
+        .google-atteli {
+            width: 18px;
+            height: 18px;
+        }
+
+        .video-poga {
+            width: 16px;
+            height: 16px;
+        }
+
+        .iestatijumi {
+            position: absolute;
+            border: none;
+            margin-top: 75px;
+            margin-left: 700px;
+            font-size: 14px;
+            width: 70px;
+            height: 40px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .riks {
+            position: absolute;
+            border: none;
+            margin-top: 82px;
+            margin-left: 790px;
+            font-size: 14px;
+            width: 45px;
+            height: 27px;
+            background-color: white;
+            cursor: pointer
+        }
+
+        .riks:hover {
+            background-color: #fcfcfc;
+            border-radius: 2px;
+            border: 0.5px solid #dadce0;
+            box-shadow: 1px;
+        }
+
+        .line {
+            width: 1903px;
+            position: absolute;
+            margin-left: -10px;
+            margin-top: 115px;
+            border: 0.5px solid #d3d3d3;
+        }
+
+        .Nosaukums {
+            font-family: arial, sans-serif;
+            font-size: 30px;
+            margin-top: 100px;
+            margin-left: 15px;
+        }
+
+        .Rezultati {
+            position: absolute;
+            margin-top: 130px;
+            margin-left: 170px;
+            color: #70757a;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .links {
+            position: absolute;
+            color: #202124;
+            font-size: 14px;
+            margin-left: 170px;
+            margin-top: 170px;
+            font-family: arial, sans-serif;
+        }
+
+        .border {
+            position: absolute;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            width: 600px;
+            height: 70px;
+            margin-top: 230px;
+            margin-left: 170px;
+            color: #4d5156;
+            line-height: 1.4;
+        }
+
+        .links2 {
+            position: absolute;
+            font-family: arial, sans-serif;
+            font-size: 20px;
+            margin-left: 170px;
+            text-decoration: none;
+            margin-top: 200px;
+        }
+
+        .links2:hover {
+            text-decoration: underline;
+        }
+
+        .borders {
+            position: absolute;
+            border: 1px solid #dadce0;
+            width: 600px;
+            height: 120px;
+            margin-left: 170px;
+            margin-top: 310px;
+            border-radius: 8px;
+        }
+
+        .rvt-linki-position {
+            position: absolute;
+            height: 50px;
+            margin-top: 275px;
+            margin-left: 170px;
+            text-decoration: none;
+        }
+
+        .rvt-linki-pogas {
+            font-size: 16px;
+            color: #1a0dab;
+        }
+
+        .rvt-linki-visited:visited {
+            color: #609;
+        }
+
+        .rvt-linki-hover:hover {
+            border-bottom: 1px solid;
+        }
+
+        .Mekle-ari {
+            color: rgba(0, 0, 0, .57);
+            margin: 12px 20px;
+            font-weight: bold;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+        }
+
+        .timetable {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 0px;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+
+        .timetable:hover {
+            text-decoration: underline;
+        }
+
+        .e-studijas {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 25px;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+
+        .e-studijas:hover {
+            text-decoration: underline;
+        }
+
+        .profesijas {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 50px;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+
+        .profesijas:hover {
+            text-decoration: underline;
+        }
+
+        .konsultācijas {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 0px;
+            margin-left: 220px;
+            text-decoration: none;
+        }
+
+        .konsultācijas:hover {
+            text-decoration: underline;
+        }
+
+        .stipendijas {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 25px;
+            margin-left: 220px;
+            text-decoration: none;
+        }
+
+        .stipendijas:hover {
+            text-decoration: underline;
+        }
+
+        .nodalja {
+            position: absolute;
+            color: #1a0dab;
+            font-family: arial, sans-serif;
+            font-size: 14px;
+            margin-top: 50px;
+            margin-left: 220px;
+            text-decoration: none;
+        }
+
+        .nodalja:hover {
+            text-decoration: underline;
+        }
+
+        .poga3 {
+            border: 1px solid #dadce0;
+            font-family: arial,sans-serif;
+            color: #3c4043;
+            height: 32px;
+            width: 72px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+    
